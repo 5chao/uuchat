@@ -1,4 +1,4 @@
-## <img alt="uuchat" src="http://i.imgur.com/endrrcC.png" />
+## <img alt="uuchat" src="./src/client/static/images/uuchat_logo_128.png" />
 
 A powerful customer success platform ! demo: [http://uuchat.io](http://uuchat.io)
 
